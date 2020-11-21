@@ -13,6 +13,7 @@ namespace Mvc3ToolsUpdateWeb_Default.Controllers
 {
     public class AccountController : Controller
     {
+        //add code to trigger CI build
         //add some code to trigger a CI build
         private void MigrateShoppingCart(string UserName)
         {
